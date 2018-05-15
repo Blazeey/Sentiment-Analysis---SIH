@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_shade">#EB3749</color>
+    <color name="dark_shade">#D12E3F</color>
+    <color name="darker_shade">#AE2433</color>
+    <color name="dark_grey">#575B5B</color>
+    <color name="positive">#79CC4B</color>
+    <color name="negative">#FF0000</color>
+    <color name="neutral">#059DFF</color>
+    <color name="background">#F4F8F9</color>
+</resources>
+

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sentiment Analysis</string>
+    <string name="search_text">Search using the #Hashtag</string>
+    <string name="analyze_text">Analyze the topic you searched</string>
+    <string name="chart_text">Get the results as a graph along with geographic location</string>
+    <string name="app_intro">App Intro</string>
+</resources>
